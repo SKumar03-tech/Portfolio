@@ -140,7 +140,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 829.2354649792815,
+			"x": 969.2354649792815,
 			"y": -3903.2029948702593,
 			"rotation": 0,
 			"isLocked": false,
@@ -238,7 +238,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 95.79486536269496,
+			"x": 237.79486536269496,
 			"y": -3732.470868979546,
 			"rotation": 0,
 			"isLocked": false,
@@ -420,7 +420,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 530.666217100721,
+			"x": 670.666217100721,
 			"y": -3904.036846343116,
 			"rotation": 0,
 			"isLocked": false,
@@ -618,7 +618,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 978.9315406301263,
+			"x": 1120.9315406301262,
 			"y": -3728.720147405992,
 			"rotation": 0,
 			"isLocked": false,
@@ -667,7 +667,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 388.0785790571304,
+			"x": 530.0785790571304,
 			"y": -3731.0124339291974,
 			"rotation": 0,
 			"isLocked": false,
@@ -753,9 +753,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 344.5765688464735,
-			"y": 4562.187866250546,
-			"z": 0.700804120921863,
+			"x": -14.539269866342707,
+			"y": 4022.4970400439597,
+			"z": 0.943760878020595,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -879,7 +879,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 532.6490223859064,
+			"x": 674.6490223859064,
 			"y": -3729.5539710609833,
 			"rotation": 0,
 			"isLocked": false,
@@ -928,7 +928,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 238.38250340628565,
+			"x": 378.38250340628565,
 			"y": -3905.4952813934647,
 			"rotation": 0,
 			"isLocked": false,
@@ -1159,10 +1159,10 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:PPTsmewzpRVcxj8LvbE1s",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:nkRNESguuMI9u4MIvormL"
+				"shape:PPTsmewzpRVcxj8LvbE1s"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -1272,7 +1272,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 93.81206007750961,
+			"x": 233.8120600775096,
 			"y": -3906.953744261679,
 			"rotation": 0,
 			"isLocked": false,
@@ -1363,7 +1363,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 684.6650216505054,
+			"x": 824.6650216505054,
 			"y": -3904.6614577384735,
 			"rotation": 0,
 			"isLocked": false,
@@ -1682,7 +1682,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 831.2182702644668,
+			"x": 973.2182702644668,
 			"y": -3728.7201195881266,
 			"rotation": 0,
 			"isLocked": false,
@@ -2018,7 +2018,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 976.9487353449409,
+			"x": 1116.9487353449408,
 			"y": -3903.2030226881247,
 			"rotation": 0,
 			"isLocked": false,
@@ -2253,6 +2253,60 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 80.85540060706738,
+			"y": -3925.436222095827,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PPTsmewzpRVcxj8LvbE1s",
+			"type": "geo",
+			"props": {
+				"w": 136,
+				"h": 61.70000076293945,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "serif",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "Projects"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b0SLAwQWV",
+			"typeName": "shape"
+		},
+		{
 			"x": 120.55919356622559,
 			"y": -2296.3291191681337,
 			"rotation": 0,
@@ -2479,7 +2533,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 240.365308691471,
+			"x": 382.365308691471,
 			"y": -3731.012406111332,
 			"rotation": 0,
 			"isLocked": false,
@@ -2656,8 +2710,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1121.5191786737169,
-			"y": -3902.7445598199106,
+			"x": 92.48131658272956,
+			"y": -3731.5147551010923,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -3199,7 +3253,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 386.09577377194506,
+			"x": 526.095773771945,
 			"y": -3905.49530921133,
 			"rotation": 0,
 			"isLocked": false,
@@ -3312,21 +3366,14 @@
 		},
 		{
 			"followingUserId": null,
-			"opacityForNextShape": 0.5,
+			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:textAlign": "middle",
-				"tldraw:font": "serif",
-				"tldraw:color": "red",
-				"tldraw:geo": "rectangle",
-				"tldraw:dash": "solid",
-				"tldraw:fill": "none",
-				"tldraw:horizontalAlign": "middle",
 				"tldraw:size": "m"
 			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "move",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -3354,9 +3401,9 @@
 			"isFocused": true,
 			"devicePixelRatio": 1.25,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
+			"isHoveringCanvas": false,
 			"openMenus": [],
-			"isChangingStyle": false,
+			"isChangingStyle": true,
 			"isReadonly": false,
 			"meta": {},
 			"duplicateProps": null,
@@ -3649,7 +3696,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 686.6478269356908,
+			"x": 828.6478269356908,
 			"y": -3730.178582456341,
 			"rotation": 0,
 			"isLocked": false,
@@ -3732,55 +3779,6 @@
 			},
 			"parentId": "page:page",
 			"index": "a9hMrc2V",
-			"typeName": "shape"
-		},
-		{
-			"x": 1123.5019839589022,
-			"y": -3728.261684537778,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:wfFzk3456DUemFVIxjj2h",
-			"type": "geo",
-			"props": {
-				"w": 118,
-				"h": 138.37966166746776,
-				"geo": "rectangle",
-				"dash": "dashed",
-				"growY": 0,
-				"url": "",
-				"scale": 1,
-				"color": "black",
-				"labelColor": "black",
-				"fill": "none",
-				"size": "m",
-				"font": "serif",
-				"align": "middle",
-				"verticalAlign": "middle",
-				"richText": {
-					"type": "doc",
-					"attrs": {
-						"dir": "auto"
-					},
-					"content": [
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "Project 16"
-								}
-							]
-						}
-					]
-				}
-			},
-			"parentId": "page:page",
-			"index": "agnguKuV",
 			"typeName": "shape"
 		}
 	]
