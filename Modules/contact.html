@@ -1,65 +1,23 @@
-<!-- <div>
-    <h1>Contact Me</h1>
-    <div class="outer-box">
-        <form action="#" method="post">
-
-            <input type="text" class="field" placeholder="Enter Your Name">
-
-            <input type="email" class="field" placeholder="Enter Email">
-
-            <textarea class="field" placeholder="Enter Message"></textarea>
-
-            <button type="submit" class="submit-btn">Submit</button>
-
-        </form>
-    </div>
-</div> -->
-
-<div>
+<section class="contact-section">
     <h2>Contact Me</h2>
-        <p>Your Email ID, Contact number, Address and <span> location</span> </p>
+    <p>Your Email ID, Contact number, Address and <span>location</span></p>
 
-        <div>
-            <form action="">
-                <div>
-                    <div>
-                        <input type="text" name="name" placeholder="Your name">
-                    </div>
-                    <div>
-                        <input type="email" name="email" placeholder="you@gmail.com">
-                    </div>
+    <div class="contact-container">
+        <form class="contact-form">
+            <div class="input-row">
+                <div class="input-group">
+                    <input type="text" name="name" placeholder="Your name" required>
                 </div>
-
-                <div>
-                    <textarea name="message" id="message" placeholder="Enter Message"></textarea>
+                <div class="input-group">
+                    <input type="email" name="email" placeholder="you@gmail.com" required>
                 </div>
+            </div>
 
-                <button type="submit">Submit</button>
-            </form>
-        </div>
-</div>
+            <div class="input-group full">
+                <textarea name="message" id="message" placeholder="Enter Message" required></textarea>
+            </div>
 
-
-<!-- <div id="title">Contact Me</div>
-
-<div id="container">
-
-    <div id="box1">
-        <form id="form1">
-            <input type="text" id="name" placeholder="Enter Your Name">
-            <input type="email" id="email" placeholder="Enter Email">
-            <textarea id="message" placeholder="Enter Message"></textarea>
-            <button type="submit" id="submit">Submit</button>
+            <button type="submit" class="contact-btn">Submit</button>
         </form>
     </div>
-
-    <div id="box2">
-        <form id="form2">
-            <input type="email" id="email2" placeholder="Your Email ID">
-            <input type="text" id="contact" placeholder="Your Contact Number">
-            <input type="text" id="address" placeholder="Your Address">
-            <textarea id="location" placeholder="Your GPS Based Location"></textarea>
-        </form>
-    </div>
-
-</div> -->
+</section>
